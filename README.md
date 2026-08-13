@@ -19,11 +19,12 @@ I build practical financial tools that transform market data, portfolio statisti
 
 ## Professional Focus
 
-- **M.S. in Financial Mathematics** from the University of Illinois Chicago, GPA 3.90
-- Investment-analysis experience across equities, portfolio performance, risk, derivatives, fixed income, and structured products
-- Financial-analysis experience using Python, SQL, Excel, Power Query, Bloomberg, Power BI, and market-data APIs
-- Winner of the CME Group University Trading Challenge and invited to participate in the CBOE closing-bell ceremony
-- Interested in investment analysis, equity research, portfolio analytics, market risk, fixed income, and data-driven financial decision-making
+- **M.S. in Financial Mathematics (STEM)** from the University of Illinois Chicago, **GPA 3.90/4.00**, placing in the **top 1% of UIC Finance students by GPA**
+- Managed a **$100K investment portfolio** and generated **$25K in realized gains**; presented equity ideas to portfolio managers and ranked in the **top 10% for analytical excellence**
+- Experience spanning **equity research, portfolio construction, performance attribution, market risk, derivatives, fixed income, structured products, and HNW portfolio analysis**
+- Improved portfolio-data processing by **15% with SQL**, supported approximately **$500K in investment decisions**, and automated client-ready reporting and monthly reconciliations with Power Query and Excel
+- Used **Bloomberg, Python, SQL, Excel, Power BI, and FactSet** for idea generation, Sharpe Ratio, Information Ratio, XIRR, VaR and exposure monitoring, and reusable financial dashboards; conducted research across **20+ banks and 50+ ESG-rated firms**
+- **CME Group University Trading Challenge winner** and invited to participate in the **CBOE closing-bell ceremony**
 
 ---
 
